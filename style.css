@@ -1,1 +1,8 @@
+.text-centered {
+  text-align: center;
+}
 
+.light-background {
+  background-color: salmon;
+  color: gray;
+}
