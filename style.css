@@ -6,3 +6,33 @@
   background-color: salmon;
   color: gray;
 }
+
+footer {
+  text-align: center;
+}
+footer #copyright {
+  color: gray;
+  margin-top: 26px;
+}
+
+footer #social-media {
+  width: 100%;
+  background-color: salmon;
+}
+footer #social-media ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+footer #social-media ul li {
+  float: left;
+  margin: 15px 5px 8px 5px;
+}
+/* --------- = full background images --------- */
+
+.bg-color-band {
+    height: 20px; 
+  background-color: gray;
+  border: 1px; solid #b7c4d0;
+}
